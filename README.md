@@ -1,7 +1,7 @@
-## React Native: Restaurant app
+# React Native: Restaurant app
 `project made of 2 parts. This is part 2`
 
-# Project where the customer of a restaurant can see the menu and order from the phone.
+### Project where the customer of a restaurant can see the menu and order from the phone.
 
 `react-navigation/stack` to move throw views.
 
