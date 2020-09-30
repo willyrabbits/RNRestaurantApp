@@ -1,5 +1,5 @@
 # React Native: Restaurant app
-`project made of 2 parts. This is part 2`
+`project made of 2 parts. This is part 2. part 1 -> https://github.com/willyrabbits/RRestaurantClient`
 
 ### Project where the customer of a restaurant can see the menu and order from the phone.
 
@@ -12,5 +12,3 @@
 `useContext & useReducer` so you can transfer data between components easily.
 
 `lodash` to sort some arrays.
-
-https://www.udemy.com/course/react-native-crea-aplicaciones-para-android-y-ios-con-react/
