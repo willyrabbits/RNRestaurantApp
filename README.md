@@ -1,5 +1,4 @@
-# WORK IN PROGRESS
-## React Native: Restaurant app
+# React Native: Restaurant app
 `project made of 2 parts. This is part 2. part 1 -> https://github.com/willyrabbits/RRestaurantClient`
 
 ### Project where the customer of a restaurant can see the menu and order from the phone.
