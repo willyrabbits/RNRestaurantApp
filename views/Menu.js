@@ -16,8 +16,11 @@ const Menu = () => {
     // order context
     const { seleccionarPlato } = useContext(PedidoContext)
 
-    // hook to navigate
+    // hook to navigate & hide back button
     const navigation = useNavigation()
+    navigation.setOptions({
+        headerLeft: () => <></>
+    })
 
     useEffect(() => {
         obtenerProductos()

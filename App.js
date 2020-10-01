@@ -11,6 +11,8 @@ import FormPlato from './views/FormPlato'
 import ResumenPedido from './views/ResumenPedido'
 import ProgresoPedido from './views/ProgresoPedido'
 
+import BotonResumen from './components/ui/BotonResumen'
+
 import FirebaseState from './context/firebase/firebaseState'
 import PedidoState from './context/pedidos/pedidosState'
 
@@ -43,6 +45,7 @@ const App = () => {
                             <Stack.Screen
                                 name="Menu"
                                 component={Menu}
+                                options={{ headerRight: props => <BotonResumen /> }}
                             />
 
                             <Stack.Screen
